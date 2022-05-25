@@ -1,0 +1,25 @@
+{
+  "name": "learning-GraphQL",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "graphpack",
+    "build": "graphpack build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poulami95/learning-GraphQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/poulami95/learning-GraphQL/issues"
+  },
+  "homepage": "https://github.com/poulami95/learning-GraphQL#readme",
+  "devDependencies": {
+    "graphpack": "^1.0.9"
+  }
+}
