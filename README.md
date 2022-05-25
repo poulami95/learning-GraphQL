@@ -11,7 +11,7 @@ This repository contains the basics of creating an API with GraphQL. I did it my
 3. Advantages of GraphQL ?
 4. How to use GraphQL ?
 
-Herein you will mainly find how to create Query, Mutations in GraphQL. Also one more advantage is that I didn't have to setup a GraphQL server manually to run queries. [https://github.com/glennreyes/graphpack](GraphPack) came as saviour. :wink:
+Herein you will mainly find how to create Query, Mutations in GraphQL. Also one more advantage is that I didn't have to setup a GraphQL server manually to run queries. [GraphPack](https://github.com/glennreyes/graphpack) came as saviour. :wink:
 
 So, like me if you too want to learn more about this latest language, dive in :smile:
 
